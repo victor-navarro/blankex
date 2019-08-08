@@ -9,7 +9,7 @@ A minimal template for running experiments through the browser using jsPsych and
 - `backend.py` is minimal: it handles writes to datastore only
 - Deploy command
 
-`gcloud app deploy --project=PROJECTNAME`
+`gcloud app deploy --project=PROJECTID`
 
 - Downloading data from GAE. see `download` folder.
 
